@@ -1,0 +1,92 @@
+::: Video Streaming Application :::
+
+How does streaming work? 
+Just like other data that's sent over the Internet, audio and video data is broken down into data packets.
+Each packet contains a small piece of the file, and an audio or video player in the browser on the client device takes the flow of data packets and interprets them as video or audio.
+Sending video over the Internet, as opposed to sending text and still images, requires a faster method of transporting data than TCP/IP, which prioritizes reliability over speed.
+
+The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. 
+It originated in the initial network implementation in which it complemented the Internet Protocol (IP).
+Therefore, the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. 
+Major internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP. Applications that do not require reliable data stream service may use the User Datagram Protocol (UDP), which provides a connectionless datagram service that emphasizes reduced latency over reliability.
+
+What is the difference between streaming and downloading?
+Streaming is real-time, and it's more efficient than downloading media files.
+If a video file is downloaded, a copy of the entire file is saved onto a device's hard drive, and the video cannot play until the entire file finishes downloading. If it's streamed instead, the browser plays the video without actually copying and saving it.
+The video loads a little bit at a time instead of the entire file loading at once, and the information that the browser loads is not saved locally.
+
+Think of the difference between a lake and a stream: 
+  -Both contain water, and a stream may contain just as much water as a lake; 
+  -The difference is that with a stream, the water is not all in the same place at the same time. 
+A downloaded video file is more like a lake, in that it takes up a lot of hard drive space (and it takes a long time to move a lake). Streaming video is more like a stream or a river, in that the video's data is continuously, rapidly flowing to the user's browser.
+
+Streaming media is multimedia that is constantly received by and presented to an end-user while being delivered by a provider.
+The verb "to stream" refers to the process of delivering or obtaining media in this manner;[clarification needed] the term refers to the delivery method of the medium, rather than the medium itself, and is an alternative to file downloading, a process in which the end-user obtains the entire file for the content before watching or listening to it.
+
+A client end-user can use their media player to start playing digital video or digital audio content before the entire file has been transmitted.
+Distinguishing delivery method from the media distributed applies specifically to telecommunications networks, as most of the delivery systems are either inherently streaming (e.g. radio, television, streaming apps) or inherently non-streaming (e.g. books, video cassettes, audio CDs).
+
+Live streaming is the delivery of Internet content in real-time much as live television broadcasts content over the airwaves via a television signal. 
+Live internet streaming requires a form of source media (e.g. a video camera, an audio interface, screen capture software), an encoder to digitize the content, a media publisher, and a content delivery network to distribute and deliver the content. 
+Live streaming does not need to be recorded at the origination point, although it frequently is.
+
+There are challenges with streaming content on the Internet. For example, users whose Internet connection lacks sufficient bandwidth may experience stops, lags, or slow buffering of the content. And users lacking compatible hardware or software systems may be unable to stream certain content.
+
+For streaming, speed is far more important than reliability. For instance, if someone is watching an episode of a TV show online, not every pixel has to be present for every frame of the episode.
+The user would prefer to have the episode play at normal speed than to sit and wait for every bit of data to be delivered.
+Therefore, a few lost data packets is not a huge concern, and this is why streaming uses UDP.
+
+Video streaming is continuing to grow and stand unique.
+
+
+Also beat cable to 4K content, HDR content, and other future technologies.
+
+Some examples of Video Streaming Applications:
+
+1. Amazon Prime Video
+2. Netflix
+3. HBO Now
+4. Hulu
+5. Movies Anywhere
+6. PlayStation Vue
+7. Sling TV
+8. Twitch
+9. VRV
+10.YouTube
+11. Azubu tv
+12. Mixer
+
+There are several reasons for the growth in video streaming: 
+  -it is easily accessible;
+  -offers a variety of options
+  -in our smartphone society, it is mobile friendly.
+But with so many choices, it can be difficult to know the best video streaming apps to use.
+
+How to develop a live video streaming application?
+
+Live video streaming application is on the lift and it extending to grow every single day. 
+Live streaming application is trending. In fact, approx 33% of all extended content is estimated for videos. It is excessive to say that pre-produced video content is the next big thing in online marketing. 74% of marketers and small business owners who endured videos endorsed the direct impact on their business.
+
+The use of live streaming for branding has raised by 4X and record reveals that Facebook, Instagram, Youtube, Vimeo and more tech giants have entered into live streaming. Thanks to the boundless borders of live streaming, we can attend events, conferences, and concerts, while staying at home.
+This unlocks us up to new practices, guides us with new stuff, shows us new cultures and ideas, lets us work better with other people or in other words — expands our horizons.
+
+Who needs a live video streaming application?
+Live streaming can be used not only for enjoyment. It can also be used by businesses as a marketing tool for promotion. 
+Statistics say that actual video content is the most trending now so it’s a good idea to start your first broadcast! Live video will surely attract the attention of new clients and keep the existing ones.
+
+Which features should be included in MVP of a live streaming application?
+
+1. User registration
+2. Creating a personal user profile
+3. Implementation of online video streaming
+4. Live comments
+5. Search
+6. Video Quality
+7. Design
+8. Privacy
+
+
+Summary
+These are only short guidelines on how to develop a live streaming app and What is essential for developing such application.
+Many obstacles might arise when building and marketing your app, so it’s essential to continually examine and determine what’s unique in the market. It will also encourage you with more ideas. You can think about it in an entirely different way.
+
